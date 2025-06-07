@@ -1,6 +1,6 @@
 venv
 venv/
-data/*.csv
+#data/*.csv
 
 *.pkl
 model/
